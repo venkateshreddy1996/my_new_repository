@@ -1,0 +1,22 @@
+how to create a vpc via cfn template?
+create ec2 with autoscaling and application load balancer having an elastic ip?
+
+
+
+vpc.
+1.subnet.
+2.internet gateway
+3.nat gateway
+4.peering connection
+5.vpc endpoints
+
+
+
+
+creation of vpc .
+creation of subnets.
+creation of ig and attach to vpc
+route table and creation of route tabl and go to route and edit bound values after that subnet association and edit subnet associationand save it.
+launch ec2 and attachthe vpc
+
+
